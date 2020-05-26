@@ -1,5 +1,5 @@
 _repo: Arte-de-louceiro-Tratado-sobre-o-modo-de-fazer-as-loucas-de-barro-mais-grossas_62115
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Silva, José Ferreira da, active 1801-1804
@@ -9,6 +9,9 @@ contributor:
     - Da Silva, José Ferreira
     gutenberg_agent_id: '51774'
     url: http://www.gutenberg.org/2009/agents/51774
+covers:
+- cover_type: archival
+  image_path: 62115-h/images/cover.jpg
 creator:
   author:
     agent_name: Milly, Nicolas-Christiern de Thy, comte de
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51776
     wikipedia: https://fr.wikipedia.org/wiki/Nicolas-Christiern_de_Thy_de_Milly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62115#Arte-de-louceiro-Tratado-sobre-o-modo-de-fazer-as-loucas-de-barro-mais-grossas
 gutenberg_issued: '2020-05-13'
 gutenberg_type: Text
 identifiers:
