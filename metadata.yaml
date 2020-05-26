@@ -1,0 +1,39 @@
+_repo: Arte-de-louceiro-Tratado-sobre-o-modo-de-fazer-as-loucas-de-barro-mais-grossas_62115
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Silva, José Ferreira da, active 1801-1804
+    aliases:
+    - Silva, Jose Ferreira da
+    - Ferreira da Silva, José
+    - Da Silva, José Ferreira
+    gutenberg_agent_id: '51774'
+    url: http://www.gutenberg.org/2009/agents/51774
+creator:
+  author:
+    agent_name: Milly, Nicolas-Christiern de Thy, comte de
+    aliases:
+    - De Milly, Nicolas-Christiern de Thy, comte
+    - Thy, Nicolas-Christiern de, comte de Milly
+    - De Thy, Nicolas-Christiern, comte de Milly
+    - Milly, comte de
+    birthdate: 1728
+    deathdate: 1784
+    gutenberg_agent_id: '51776'
+    url: http://www.gutenberg.org/2009/agents/51776
+    wikipedia: https://fr.wikipedia.org/wiki/Nicolas-Christiern_de_Thy_de_Milly
+description: ''
+gutenberg_issued: '2020-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62115'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Porcelain -- Early works to 1800'
+- !lcc 'HD'
+- GITenberg
+title: 'Arte de louceiro: Tratado sobre o modo de fazer as louças de barro mais grossas'
+url: http://www.gutenberg.org/ebooks/62115
